@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a member of the Committee of Grievances containing some seasonable reflections on the present administration of affairs since managed by Dutch councils.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48199</idno><idno type="EEBO-CITATION">15667926</idno>
+  <idno type="VID">104334</idno>
+  <idno type="EEBO-PROQUEST">2240873123</idno>
+  
+            <idno type="STC">Wing L1683</idno>
+            <idno type="STC">ESTC R179580</idno>
+            <idno type="OCLC">15667926</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104334)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a member of the Committee of Grievances containing some seasonable reflections on the present administration of affairs since managed by Dutch councils.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104334:1"/>
+            <head>A <hi>Letter</hi> to a Member of the <hi>Committee of Grievances,</hi> containing some Seasonable Reflections on the present Administration of Affairs, since Ma<g ref="char:EOLhyphen"/>naged by <hi>Dutch</hi> Councils.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IF you have read or heard of the Changes between 1640. and 1660. you can't be surpris'd at the Accidents between 78. and 89. The Pretences, the Suc<g ref="char:EOLhyphen"/>cesses, the Methods used and had in both, are so exactly agreeable, that the last would have been impossible, but that the same Men who did pro<g ref="char:EOLhyphen"/>cure the first have occasioned the later: The Designes we observe to be the same, and we begin to feel the Consequences much like the other, or rather worse. To insist on the Parallel, is as needless as to shew their Malignity: It's enough now for us to bethink our selves how we have been twice Gulled and Cheated by those Men already. 'Tis true, Grievances we have had, and still have, and must expect more, as long as those are at the Helm, who when they had for<g ref="char:EOLhyphen"/>feited their own Interest and share in publick Administrations, complained of e<g ref="char:EOLhyphen"/>very thing which others did; until by Murmurs, Lyes, Libels, Lampoons and Ballads, they had made others as uneasie as themselves; that during a Convulsion of State they might mount the Sadle, and Ride us all, and with Vengeance, as now they do. Their Pretences were specious, but false. In their Pamphlets, they complained of Falshood and Insincerity, yet never shewed us the Mother of the Prince of <hi>Wales</hi> brought over in the <hi>Dutch</hi> Fleet; the Original League under King <hi>James</hi>'s own Hand with the <hi>French</hi> King, to cut <hi>Protestants</hi> Throats; or, the two Witnesses of <hi>Essex</hi>'s Murder, as they promised us. They complained of sham Storyes put upon the People; yet they Published, and gained more by a Third sham Declaration, then by the former; a sham Paper of a Fight in <hi>Ireland</hi> between <hi>Papist</hi> and <hi>Protestant,</hi> of 6000 killed of one party, and 4000 of the other; and Industriously sent Men at Midnight to the several Corners of the Town to Alarum the City with Fears of a Massacree from the <hi>Irish,</hi> and the same throughout the Country; sham Storyes of the <hi>Dutch</hi> taking King <hi>James</hi> and carrying Him to <hi>Holland;</hi> sham Papers of His Death, and those Licensed by Authority. They comp<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iued of breach of Promise, and a Variance between the Declaration at Councel-Board on the 6th. of <hi>February</hi> 1685. on the behalf of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the Declaration for Liberty of Conscience; but will not now remember the Harmony between the Promise to the <hi>London</hi> Clergy on the 20th. of <hi>February</hi> last for the support of the Churches Establishment, and <hi>that they might depend on it;</hi> and the Speech made in Parliament the 16th. of <hi>March</hi> for to Capacitate all Persons, not Excepting <hi>Atheists, Fifth Monarchy Men,</hi> &amp;c. to enjoy all the Preferments and Offices in the Nation. They feared unqualified Men should come into Parliament, yet have admitted persons Out-lawed and Attainted to it. They feared Members would not take the Oathes in King <hi>James</hi>'s Parliament; but themselves never took the new ones in eight dayes after they had made them, when by their own Law none was to Sit, or Vote till that was done; and yet they Sate and Acted all that time, and passed the Money Bill, which now hath relation to a day, when by an Act of Parliament 30 <hi>Car.</hi> 2. <hi>cap.</hi> 1. it appears they were not qualified to make it. They complained of Court Officers being Members of Parliaments; yet have So<g ref="char:EOLhyphen"/>licited and procured the Choice of many such when for their turn. They did complain of Judge not taking the Oathes; but have made several without Swearing Allegiance, as the Statute of King <hi>James</hi> the 1st. requires at the time of taking the Oath of Office. They complained of Judges Patents, that they were not during good Behaviour; but make all their own Grants <hi>durante bene placito,</hi> even such as were usually for Life, as the <hi>Master of the Rolls</hi> and the like. They complained of Lewd and Scandalous Persons employed and encouraged with Publick Offices; yet Preferred an Out-Law, <hi>viz. R. F.</hi> to be House-keeper to the <hi>Excise-Office</hi> and many others. They complained of turning out <hi>English</hi> Officers
+<pb facs="tcp:104334:2"/>to Gratifie the <hi>Irish</hi> with their Employments; but they are excusable to take the Bread out of the Mouths of hundreds of <hi>English</hi> Protestants, to feed Foreigners in their places. They complained of Causeless Removals of Persons from Publick Places; but, the bitter cryes of many numerous Families, depending for a Liveli<g ref="char:EOLhyphen"/>hood upon the late Owners of those Employs, shew what the Practice now is. They complained of <hi>Closseting;</hi> but have removed several for Voting according to their Consciences, as the D. of <hi>Graston,</hi> &amp;c. They complained of Billeting Soul<g ref="char:EOLhyphen"/>diers upon Publick Houses against the Owners will; but still do the same thing. They complained of Hanging Souldiers for Desertion as Felons; but after long Threats, have now made a Law, <hi>That whosoever shall excite, Cause, or joyn in any thing they shall call</hi> Mutiny <hi>or</hi> Sedition, <hi>or shall</hi> Desert, <hi>shall suffer Death, or such other Punishment as by a</hi> Court-Martial <hi>shall be inflicted.</hi> They complain of a <hi>Popish Army;</hi> but don't assign any difference between one <hi>Papist</hi> and another, while they maintain 4000 Foreigners of that Perswasion at the <hi>Protestants</hi> Charge. They complained of not taking the <hi>Tests;</hi> but would not allow any <hi>Term</hi> or <hi>Ses<g ref="char:EOLhyphen"/>sions</hi> to take them in. They complained of <hi>Passive Obedience,</hi> as an Unreasonable, Foolish, and Impertinent Doctrine; but now it is Treasonable to deny it. They complained of the Buying of Places, yet they themselves Sell all, nay turn out all that will not pay a years value. They complained of the Treasonable Collecting of the Revenue after King <hi>Ch.</hi> the 2d's Death; yet receive it without an Act of <hi>Parliament,</hi> and after 'tis devolved to the People by the <hi>Abdication,</hi> as was agreed by all the Lawyers in the House the first day, though the Case was altered, and they changed their Opinions five weeks after. They complained of <hi>Oppressive Subsidies;</hi> but give to the <hi>Dutch</hi> above half a Million of Money, even without Examination of Accounts, when in Justice they ought to have paid us much more, being Gainers by the diversion of this years Storm from themselves, by making us the Seat of War to preserve their own peace. They complained of a Breach upon <hi>English</hi>-Mens Liberties by long Imprisonments, for want of excessive Bail deman<g ref="char:EOLhyphen"/>ded in evasion of the <hi>Habeas Corpus</hi> Act; but themselves have absolutely suspen<g ref="char:EOLhyphen"/>ded it, tho' it's hop'd, they may live to repent of the precedent, as an Argument hereafter for the like, or a longer suspension upon an alledged necessity. They complained of the encouragement given to a Gentleman for Writing an <hi>Observa<g ref="char:EOLhyphen"/>tor:</hi> but themselves have maintained a <hi>Gazzettier</hi> and a <hi>Remarquer,</hi> which is two to one. They complained of <hi>Johnson</hi>'s usage for Writing a Book, <hi>viz. Julian</hi> the <hi>Apostate;</hi> but Goal'd the Author of a Sheet of Paper, <hi>viz.</hi> The <hi>Desertion Discuss'd.</hi> They complained of Sir <hi>Thomas Armstrong</hi>'s Execution without the aid of a Jury, tho' in pursuance to a Statute, <hi>viz.</hi> 5 <hi>Edw.</hi> 6. <hi>Cap.</hi> 11. yet threaten others with Attainders, without calling them to Answer, tho' in Prison, and at forthcoming. They complained of unjust Accusations and Persecutions; yet Sir <hi>John Moor</hi> was Prosecuted before a small Committee, consisting chiefly of such Persons who were his Accusers, or unqualified for Acting according to the known Customs and Usa<g ref="char:EOLhyphen"/>ges of the City. They complained of the decay of <hi>English</hi> Trade; and yet <hi>Dutch Foreigners</hi> are encouraged and employed to Import Goods, which by Law ought to be done by <hi>English</hi> Bottoms only. They complained of Breach of the Laws, but have forgot what the Law says, That there can be no <hi>Interregnum,</hi> and that a Father is Elder than a Child, that an Uncle is Preferable to a Nephew, a Brother before his Sister, in case of Inheritances: They are very pressing for a Bill of Comprehension and Indulgence; yet are about to impose their new Oaths of Alle<g ref="char:EOLhyphen"/>giance with the utmost rigour; hoping to raise Money, or Imprison or ruine all those who make Conscience of their Oaths to King <hi>James.</hi> And instead of pre<g ref="char:EOLhyphen"/>serving our <hi>Properties,</hi> a fourth part of the Money of the Nation will scarce serve for a present supply to secure their Usurpations. Thus you see what are our Grievances, and how we are Reliev'd.—<hi>multi</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Juv. Sat. 13.</hi>
+                  </bibl>
+                  <lg>
+                     <l>Committunt eadem diverso Crimina fato;</l>
+                     <l>Ille Crucem pretium sceleris tulit, hic Diadema.</l>
+                     <l>
+                        <hi>With different Fates Men act the self same Crimes;</hi>
+                     </l>
+                     <l>
+                        <hi>Whilst on's Reward's a Cross, th' other's a Diadem.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
